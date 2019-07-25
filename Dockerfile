@@ -1,1 +1,1 @@
-FROM nginx/nginx-ingress:1.4.3
+FROM nginx/nginx-ingress:1.5.1
